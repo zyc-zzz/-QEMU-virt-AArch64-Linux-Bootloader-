@@ -1,0 +1,6 @@
+#ifndef INITRAMFS_INFO_H
+#define INITRAMFS_INFO_H
+
+#define INITRAMFS_SIZE 4325376UL
+
+#endif
